@@ -1,5 +1,5 @@
 {
-  "homepage":"./drum_machine/public/index.html",
+  "homepage":"https://hadrienallemon.github.io/portfolio/drum_machine",
   "name": "drum_machine",
   "version": "0.1.0",
   "private": true,
@@ -9,7 +9,6 @@
     "react-scripts": "1.1.4"
   },
   "scripts": {
-    "homepage":"./drum_machine/public/index.html",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",

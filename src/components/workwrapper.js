@@ -103,6 +103,7 @@ class WorkWrapper extends Component{
           <i className='arrow right' ref={dom=>this.icon=dom} />
         </div>
         <hr/>
+        <a href='https://hadrienallemon.github.io/portfolio/drum_machine'>drum_machine</a>
         <div className = 'worknav'>
           <ul>
             <li><button onClick={()=>$('.workPage').removeClass('hidden')}>All</button></li>
