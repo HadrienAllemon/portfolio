@@ -1,8 +1,8 @@
 {
-  "main.css": "static/css/main.cbce8ff7.css",
-  "main.css.map": "static/css/main.cbce8ff7.css.map",
-  "main.js": "static/js/main.cec2d0b0.js",
-  "main.js.map": "static/js/main.cec2d0b0.js.map",
+  "main.css": "static/css/main.136ce512.css",
+  "main.css.map": "static/css/main.136ce512.css.map",
+  "main.js": "static/js/main.083cfef6.js",
+  "main.js.map": "static/js/main.083cfef6.js.map",
   "static\\media\\BG1.1.png": "static/media/BG1.1.1c23cf71.png",
   "static\\media\\BG1.png": "static/media/BG1.c20d95ee.png",
   "static\\media\\BG2.1.png": "static/media/BG2.1.d302ddc0.png",
@@ -13,6 +13,9 @@
   "static\\media\\c3.png": "static/media/c3.ab64bd6c.png",
   "static\\media\\c4.png": "static/media/c4.13102f84.png",
   "static\\media\\c5.png": "static/media/c5.1f24ec4a.png",
+  "static\\media\\c6.png": "static/media/c6.30420d44.png",
+  "static\\media\\c7.png": "static/media/c7.bb8eb018.png",
+  "static\\media\\c8.png": "static/media/c8.2474e8aa.png",
   "static\\media\\codepen.svg": "static/media/codepen.6db9549d.svg",
   "static\\media\\couvRavage1.png": "static/media/couvRavage1.fbd8afae.png",
   "static\\media\\couvRavage2.png": "static/media/couvRavage2.fb2acd96.png",
@@ -21,6 +24,8 @@
   "static\\media\\github.svg": "static/media/github.9ef7aa68.svg",
   "static\\media\\linkedin.svg": "static/media/linkedin.0fc43bc0.svg",
   "static\\media\\markdownpreviewer.png": "static/media/markdownpreviewer.af875394.png",
+  "static\\media\\pomodoroclock.png": "static/media/pomodoroclock.56991f2c.png",
   "static\\media\\profilepic.png": "static/media/profilepic.64359fba.png",
+  "static\\media\\simon.png": "static/media/simon.3d95e3ee.png",
   "static\\media\\tictactoe.png": "static/media/tictactoe.a358ce40.png"
 }

@@ -1,0 +1,137 @@
+body,html{
+  height : 100%;
+  width : 100%;
+  margin : 0px;
+  padding: 0px;
+  color : #B20101;
+  
+}
+
+body{
+  background-color: #28343b;
+background-image: linear-gradient(45deg, #2A3238 25%, transparent 25%, transparent 75%, #2A3238 75%, #2A3238), 
+linear-gradient(-45deg, #2A3238 25%, transparent 25%, transparent 75%, #2A3238 75%, #2A3238);
+background-size:110px 115px;
+}
+
+
+
+.main{
+  height : 100%;
+  width : 100%;
+}
+.wrapper{
+  vertical-align : middle;
+}
+
+
+
+.title{
+  display: block;
+  width : 600px;
+  margin : auto;
+  text-align : center;
+  
+}
+
+.title p {
+  font-family : "lobster";
+  font-size : 50px;
+  margin: 0;
+  text-shadow: 2px 2px 0px rgba(203,94,94,.7);
+}
+
+.outer{
+  position : relative;
+  height : 500px;
+  width : 750px;
+  margin : auto;
+  
+}
+
+.clock{
+  position : relative;
+  top : 5%;
+  height : 300px;
+  width : 300px;
+  margin : auto;
+  border-radius : 50%;
+  background : linear-gradient(#B02A2A 0%,transparent 0%);
+  text-align : center;
+  vertical-align : middle;
+  cursor : pointer;
+}
+
+.clock >p {
+  line-height : 180px;
+  color : rgb(255,190,190);
+  font-family: "Indie Flower",cursive;
+  font-weight : bold;
+  font-size :65px;
+  margin : 0;
+}
+
+#time{
+  line-height : 50px;
+  color : rgb(255,190,190);
+  font-family: "Indie Flower",cursive;
+  font-weight : bold;
+  font-size :75px;
+  margin : 0;
+}
+
+.clock:before{
+  content : "";
+  position : absolute;
+  border : 5px solid #B20101;
+  border-radius : 50%;
+  top : -15px;
+  bottom : -15px;
+  right: -15px;
+  left: -15px;
+  z-index : 1;
+ 
+  
+}
+
+.break,.work{
+  position : absolute;
+  bottom : 0px;
+  width : 300px;
+  text-align : center;
+}
+.break{
+  right : 1px;
+}
+
+.work p, .break p{
+  font-size : 40px;
+  font-family : "Indie Flower",cursive;
+  font-weight : bold;
+  margin : 4px;
+  text-shadow: 1px 1px 0px rgba(203,94,94,.7)
+}
+
+button{
+  position : relative;
+  bottom : 7px;
+  font-family:"indie flower",cursive;
+  font-weight : bold;
+  font-size : 40px;
+  width : 40px;
+  height : 40px;
+  outline : none;
+  background : none;
+  border : none;
+  cursor : pointer;
+  color : #B20101;
+  text-shadow: 2px 2px 0px rgba(203,94,94,.7)
+}
+
+.flexButton{
+
+  width : 100%;
+  display : flex;
+  flex-direction: row;
+  justify-content : space-around;
+}
